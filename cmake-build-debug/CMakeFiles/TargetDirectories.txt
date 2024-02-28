@@ -1,0 +1,3 @@
+/Users/alirezazahedi/Desktop/AlgoExpert/cmake-build-debug/CMakeFiles/AlgoExpert.dir
+/Users/alirezazahedi/Desktop/AlgoExpert/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/alirezazahedi/Desktop/AlgoExpert/cmake-build-debug/CMakeFiles/rebuild_cache.dir
