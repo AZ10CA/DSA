@@ -7,8 +7,6 @@ using namespace std;
 class Solution {
 public:
     vector<string> generateParenthesis(int n) {
-        // 0 <= n <= 8 Time and Space complexities are both constant time: O(1)
-
         vector<vector<char>> result;
         vector<char> combination;
         generate_combinations(0, combination, result, n * 2);
