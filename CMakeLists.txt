@@ -3,4 +3,4 @@ project(AlgoExpert)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(AlgoExpert LeetCode/Top100Liked/Backtracking/39_combination_sum.cpp)
+add_executable(AlgoExpert)
