@@ -49,14 +49,8 @@ cmake_ninja_workdir = /Users/alirezazahedi/Desktop/AlgoExpert/cmake-build-debug/
 
 build cmake_object_order_depends_target_AlgoExpert: phony || CMakeFiles/AlgoExpert.dir
 
-build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/34_find_first_and_last_position_of_element_in_sorted_array.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/BinarySearch/34_find_first_and_last_position_of_element_in_sorted_array.cpp || cmake_object_order_depends_target_AlgoExpert
-  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/34_find_first_and_last_position_of_element_in_sorted_array.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
-  OBJECT_DIR = CMakeFiles/AlgoExpert.dir
-  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch
-
-build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/153_find_minimum_in_rotated_sorted_array.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/BinarySearch/153_find_minimum_in_rotated_sorted_array.cpp || cmake_object_order_depends_target_AlgoExpert
-  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/153_find_minimum_in_rotated_sorted_array.cpp.o.d
+build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/74_search_a_2D_matrix.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/BinarySearch/74_search_a_2D_matrix.cpp || cmake_object_order_depends_target_AlgoExpert
+  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/74_search_a_2D_matrix.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch
@@ -69,7 +63,7 @@ build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/153_find_minim
 #############################################
 # Link the executable AlgoExpert
 
-build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/34_find_first_and_last_position_of_element_in_sorted_array.cpp.o CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/153_find_minimum_in_rotated_sorted_array.cpp.o
+build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinarySearch/74_search_a_2D_matrix.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   POST_BUILD = :
