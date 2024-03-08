@@ -3,4 +3,4 @@ project(AlgoExpert)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(AlgoExpert AlgoExpert.io/Strings/palindrome_check.cpp AlgoExpert.io/Strings/caesar_cipher_encryptor.cpp AlgoExpert.io/Strings/run-length_encoding.cpp)
+add_executable(AlgoExpert AlgoExpert.io/Strings/palindrome_check.cpp AlgoExpert.io/Strings/caesar_cipher_encryptor.cpp AlgoExpert.io/Strings/run-length_encoding.cpp AlgoExpert.io/Strings/generate_document.cpp)

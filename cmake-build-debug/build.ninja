@@ -67,6 +67,12 @@ build CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/run-length_encoding.cpp.o:
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings
 
+build CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/generate_document.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/AlgoExpert.io/Strings/generate_document.cpp || cmake_object_order_depends_target_AlgoExpert
+  DEP_FILE = CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/generate_document.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
+  OBJECT_DIR = CMakeFiles/AlgoExpert.dir
+  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target AlgoExpert
@@ -75,7 +81,7 @@ build CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/run-length_encoding.cpp.o:
 #############################################
 # Link the executable AlgoExpert
 
-build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/palindrome_check.cpp.o CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/caesar_cipher_encryptor.cpp.o CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/run-length_encoding.cpp.o
+build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/palindrome_check.cpp.o CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/caesar_cipher_encryptor.cpp.o CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/run-length_encoding.cpp.o CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Strings/generate_document.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   POST_BUILD = :
