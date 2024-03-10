@@ -103,6 +103,8 @@ cmake_install.cmake
 Makefile
 *.make
 *.cmake
+cmake*
+CMakeLists.txt
 # Uncomment if you build in the source directory
 # CMakeLists.txt.user
 
