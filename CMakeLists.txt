@@ -3,4 +3,4 @@ project(AlgoExpert)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(AlgoExpert LeetCode/Top100Liked/BinaryTree/543_diameter_of_binary_tree.cpp LeetCode/Top100Liked/LinkedList/160_intersection_of_two_linked_lists.cpp)
+add_executable(AlgoExpert LeetCode/Top100Liked/BinaryTree/543_diameter_of_binary_tree.cpp LeetCode/Top100Liked/LinkedList/160_intersection_of_two_linked_lists.cpp LeetCode/Top100Liked/LinkedList/206_reverse_linked_list.cpp)
