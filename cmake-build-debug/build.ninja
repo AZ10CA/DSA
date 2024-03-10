@@ -61,6 +61,12 @@ build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/22_invert_binary
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree
 
+build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/104_maximum_depth_of_binary_tree.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/BinaryTree/104_maximum_depth_of_binary_tree.cpp || cmake_object_order_depends_target_AlgoExpert
+  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/104_maximum_depth_of_binary_tree.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
+  OBJECT_DIR = CMakeFiles/AlgoExpert.dir
+  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target AlgoExpert
@@ -69,7 +75,7 @@ build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/22_invert_binary
 #############################################
 # Link the executable AlgoExpert
 
-build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/98_validate_binary_search_tree.cpp.o CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/22_invert_binary_tree.cpp.o
+build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/98_validate_binary_search_tree.cpp.o CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/22_invert_binary_tree.cpp.o CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/104_maximum_depth_of_binary_tree.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   POST_BUILD = :
