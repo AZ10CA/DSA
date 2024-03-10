@@ -49,23 +49,11 @@ cmake_ninja_workdir = /Users/alirezazahedi/Desktop/AlgoExpert/cmake-build-debug/
 
 build cmake_object_order_depends_target_AlgoExpert: phony || CMakeFiles/AlgoExpert.dir
 
-build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/94_binary_tree_inorder_traversal.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/BinaryTree/94_binary_tree_inorder_traversal.cpp || cmake_object_order_depends_target_AlgoExpert
-  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/94_binary_tree_inorder_traversal.cpp.o.d
+build CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Arrays/three_number_sum.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/AlgoExpert.io/Arrays/three_number_sum.cpp || cmake_object_order_depends_target_AlgoExpert
+  DEP_FILE = CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Arrays/three_number_sum.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
-  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree
-
-build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/DynamicProgramming/70_climbing_stairs.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/DynamicProgramming/70_climbing_stairs.cpp || cmake_object_order_depends_target_AlgoExpert
-  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/DynamicProgramming/70_climbing_stairs.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
-  OBJECT_DIR = CMakeFiles/AlgoExpert.dir
-  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/DynamicProgramming
-
-build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/Graph/200_number_of_islands.cpp.o: CXX_COMPILER__AlgoExpert_Debug /Users/alirezazahedi/Desktop/AlgoExpert/LeetCode/Top100Liked/Graph/200_number_of_islands.cpp || cmake_object_order_depends_target_AlgoExpert
-  DEP_FILE = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/Graph/200_number_of_islands.cpp.o.d
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics -std=gnu++2b
-  OBJECT_DIR = CMakeFiles/AlgoExpert.dir
-  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/Graph
+  OBJECT_FILE_DIR = CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Arrays
 
 
 # =============================================================================
@@ -75,7 +63,7 @@ build CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/Graph/200_number_of_islands
 #############################################
 # Link the executable AlgoExpert
 
-build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/BinaryTree/94_binary_tree_inorder_traversal.cpp.o CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/DynamicProgramming/70_climbing_stairs.cpp.o CMakeFiles/AlgoExpert.dir/LeetCode/Top100Liked/Graph/200_number_of_islands.cpp.o
+build AlgoExpert: CXX_EXECUTABLE_LINKER__AlgoExpert_Debug CMakeFiles/AlgoExpert.dir/AlgoExpert.io/Arrays/three_number_sum.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/AlgoExpert.dir
   POST_BUILD = :
