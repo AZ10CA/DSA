@@ -25,7 +25,6 @@ vector<int> sortedSquaredArray(vector<int> array) {
 }
 
 vector<int> merge_two_sorted_arrays(const vector<int> &first, const vector<int> &second) {
-    // Time & Space: O(n)
     int fp = 0, sp = 0;
     vector<int> sorted;
 

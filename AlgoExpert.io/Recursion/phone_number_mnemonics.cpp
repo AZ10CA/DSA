@@ -6,6 +6,7 @@
 using namespace std;
 
 unordered_map<char, vector<char>> letters = {
+// Time & Space: O(4^n * n)
         {'1', {'1'}},
         {'2', {'a', 'b', 'c'}},
         {'3', {'d', 'e', 'f'}},
@@ -18,15 +19,12 @@ unordered_map<char, vector<char>> letters = {
         {'0', {'0'}}
 };
 
-void create_combinations(const string &word, int idx, string& current_combination, vector<string> &result) {
+void create_combinations(const string &word, int idx, string &current_combination, vector<string> &result) {
     if (current_combination.size() == word.size()) {
         result.push_back(current_combination);
-        cout << current_combination << endl;
         return;
     }
     for (auto letter: letters[word[idx]]) {
-        if(idx >= word.size())
-            return;
         current_combination.push_back(letter);
         create_combinations(word, idx + 1, current_combination, result);
         current_combination.pop_back();
@@ -43,9 +41,3 @@ vector<string> phoneNumberMnemonics(string phoneNumber) {
     return combinations;
 }
 
-
-int main(){
-    phoneNumberMnemonics("1905");
-
-    return 0;
-}
