@@ -57,7 +57,10 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | BinaryTree         |      108 | Convert sorted array to binary search tree                |
 | Top100Liked  | BinaryTree         |      199 | Binary tree right side view                               |
 | Top100Liked  | BinaryTree         |      543 | Diameter of binary tree                                   |
+| Top100Liked  | DynamicProgramming |        5 | Longest palindromic substring                             |
 | Top100Liked  | DynamicProgramming |       70 | Climbing stairs                                           |
+| Top100Liked  | DynamicProgramming |       72 | Edit distance                                             |
+| Top100Liked  | DynamicProgramming |      118 | Pascal's triangle                                         |
 | Top100Liked  | Graph              |      200 | Number of islands                                         |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
