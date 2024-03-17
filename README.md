@@ -32,6 +32,7 @@ While this is a personal project to track my own learning and progress, I'm open
 ## LeetCode Problems Solved
 
 [//]: # (LeetCode start)
+
 | Study plan   | Category           |   Number | Title                                                     |
 |:-------------|:-------------------|---------:|:----------------------------------------------------------|
 | Top100Liked  | Backtracking       |       17 | Letter combinations of a phone number                     |
@@ -58,6 +59,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | BinaryTree         |      199 | Binary tree right side view                               |
 | Top100Liked  | BinaryTree         |      543 | Diameter of binary tree                                   |
 | Top100Liked  | DynamicProgramming |        5 | Longest palindromic substring                             |
+| Top100Liked  | DynamicProgramming |       62 | Unique paths                                              |
 | Top100Liked  | DynamicProgramming |       70 | Climbing stairs                                           |
 | Top100Liked  | DynamicProgramming |       72 | Edit distance                                             |
 | Top100Liked  | DynamicProgramming |      118 | Pascal's triangle                                         |
