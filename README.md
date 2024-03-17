@@ -32,7 +32,38 @@ While this is a personal project to track my own learning and progress, I'm open
 ## LeetCode Problems Solved
 
 [//]: # (LeetCode start)
-
+| Study plan   | Category           |   Number | Title                                                     |
+|:-------------|:-------------------|---------:|:----------------------------------------------------------|
+| Top100Liked  | Backtracking       |       17 | Letter combinations of a phone number                     |
+| Top100Liked  | Backtracking       |       22 | Generate parentheses                                      |
+| Top100Liked  | Backtracking       |       39 | Combination sum                                           |
+| Top100Liked  | Backtracking       |       46 | Permutations                                              |
+| Top100Liked  | Backtracking       |       51 | N-queens                                                  |
+| Top100Liked  | Backtracking       |       78 | Subsets                                                   |
+| Top100Liked  | Backtracking       |       79 | Word search                                               |
+| Top100Liked  | Backtracking       |      131 | Palindrome partitioning                                   |
+| Top100Liked  | BinarySearch       |       33 | Search in rotated sorted array                            |
+| Top100Liked  | BinarySearch       |       34 | Find first and last position of element in sorted array   |
+| Top100Liked  | BinarySearch       |       35 | Search insert position                                    |
+| Top100Liked  | BinarySearch       |       74 | Search a 2d matrix                                        |
+| Top100Liked  | BinarySearch       |      153 | Find minimum in rotated sorted array                      |
+| Top100Liked  | BinaryTree         |       22 | Invert binary tree                                        |
+| Top100Liked  | BinaryTree         |       94 | Binary tree inorder traversal                             |
+| Top100Liked  | BinaryTree         |       98 | Validate binary search tree                               |
+| Top100Liked  | BinaryTree         |      101 | Symmetric tree                                            |
+| Top100Liked  | BinaryTree         |      102 | Binary tree level order traversal                         |
+| Top100Liked  | BinaryTree         |      104 | Maximum depth of binary tree                              |
+| Top100Liked  | BinaryTree         |      105 | Construct binary tree from preorder and inorder traversal |
+| Top100Liked  | BinaryTree         |      108 | Convert sorted array to binary search tree                |
+| Top100Liked  | BinaryTree         |      199 | Binary tree right side view                               |
+| Top100Liked  | BinaryTree         |      543 | Diameter of binary tree                                   |
+| Top100Liked  | DynamicProgramming |       70 | Climbing stairs                                           |
+| Top100Liked  | Graph              |      200 | Number of islands                                         |
+| Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
+| Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
+| Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
+| Top100Liked  | LinkedList         |      234 | Palindrome linked list                                    |
+| Top100Liked  | Stack              |       20 | Valid parentheses                                         |
 
 [//]: # (LeetCode end)
 
