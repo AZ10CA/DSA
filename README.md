@@ -60,9 +60,12 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | BinaryTree         |      543 | Diameter of binary tree                                   |
 | Top100Liked  | DynamicProgramming |        5 | Longest palindromic substring                             |
 | Top100Liked  | DynamicProgramming |       62 | Unique paths                                              |
+| Top100Liked  | DynamicProgramming |       64 | Minimum path sum                                          |
 | Top100Liked  | DynamicProgramming |       70 | Climbing stairs                                           |
 | Top100Liked  | DynamicProgramming |       72 | Edit distance                                             |
 | Top100Liked  | DynamicProgramming |      118 | Pascal's triangle                                         |
+| Top100Liked  | DynamicProgramming |      198 | House robber                                              |
+| Top100Liked  | DynamicProgramming |      322 | Coin change                                               |
 | Top100Liked  | Graph              |      200 | Number of islands                                         |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
