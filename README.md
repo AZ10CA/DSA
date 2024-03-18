@@ -64,6 +64,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | DynamicProgramming |       70 | Climbing stairs                                           |
 | Top100Liked  | DynamicProgramming |       72 | Edit distance                                             |
 | Top100Liked  | DynamicProgramming |      118 | Pascal's triangle                                         |
+| Top100Liked  | DynamicProgramming |      152 | Maximum product subarray                                  |
 | Top100Liked  | DynamicProgramming |      198 | House robber                                              |
 | Top100Liked  | DynamicProgramming |      279 | Perfect squares                                           |
 | Top100Liked  | DynamicProgramming |      322 | Coin change                                               |
