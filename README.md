@@ -67,7 +67,10 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | DynamicProgramming |      152 | Maximum product subarray                                  |
 | Top100Liked  | DynamicProgramming |      198 | House robber                                              |
 | Top100Liked  | DynamicProgramming |      279 | Perfect squares                                           |
+| Top100Liked  | DynamicProgramming |      300 | Longest increasing subsequence                            |
 | Top100Liked  | DynamicProgramming |      322 | Coin change                                               |
+| Top100Liked  | DynamicProgramming |      416 | Partition equal subset sum                                |
+| Top100Liked  | DynamicProgramming |     1143 | Longest common subsequence                                |
 | Top100Liked  | Graph              |      200 | Number of islands                                         |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
