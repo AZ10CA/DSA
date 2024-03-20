@@ -14,11 +14,9 @@ vector<int> spiralTraverse(vector<vector<int>> array) {
             result.push_back(array[i_min][j]);
         i_min++;
 
-
         for (int i = i_min; i <= i_max && condition; i++)
             result.push_back(array[i][j_max]);
         j_max--;
-
 
         for (int j = j_max; j >= j_min && condition; j--)
             result.push_back(array[i_max][j]);

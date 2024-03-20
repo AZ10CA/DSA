@@ -76,6 +76,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
 | Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
 | Top100Liked  | LinkedList         |      234 | Palindrome linked list                                    |
+| Top100Liked  | Misc               |      136 | Single number                                             |
+| Top100Liked  | Misc               |      169 | Majority element                                          |
 | Top100Liked  | Stack              |       20 | Valid parentheses                                         |
 
 [//]: # (LeetCode end)
