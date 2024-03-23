@@ -1,6 +1,6 @@
 using namespace std;
 
-int dp(int idx1, int idx2, const string &first, const string &second, vector <vector<int>> &memo) {
+int dp(int idx1, int idx2, const string &first, const string &second, vector<vector<int>> &memo) {
     if (idx1 == first.size())
         return second.size() - idx2;
 
@@ -25,6 +25,6 @@ int dp(int idx1, int idx2, const string &first, const string &second, vector <ve
 
 int levenshteinDistance(string str1, string str2) {
     // Time: O(mn), Space: O(mn)
-    vector <vector<int>> memo(str1.size(), vector<int>(str2.size(), -1));
+    vector<vector<int>> memo(str1.size(), vector<int>(str2.size(), -1));
     return dp(0, 0, str1, str2, memo);
 }
