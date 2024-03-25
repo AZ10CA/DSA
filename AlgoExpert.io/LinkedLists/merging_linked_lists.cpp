@@ -15,7 +15,7 @@ LinkedList *mergingLinkedLists(
         LinkedList *linkedListOne, LinkedList *linkedListTwo
 ) {
     /**
-  if we start iterating from the first nodes, the larger linked list will fall behind the smaller linked list
+  if we start iterating from the first node, the larger linked list will fall behind the smaller linked list
   this results in the larger list reaching the intersection later than the smaller one
       */
     auto size_1 = size_of(linkedListOne), size_2 = size_of(linkedListTwo);
