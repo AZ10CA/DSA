@@ -57,6 +57,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | BinaryTree         |      105 | Construct binary tree from preorder and inorder traversal |
 | Top100Liked  | BinaryTree         |      108 | Convert sorted array to binary search tree                |
 | Top100Liked  | BinaryTree         |      199 | Binary tree right side view                               |
+| Top100Liked  | BinaryTree         |      230 | Kth smallest element in a bst                             |
 | Top100Liked  | BinaryTree         |      543 | Diameter of binary tree                                   |
 | Top100Liked  | DynamicProgramming |        5 | Longest palindromic substring                             |
 | Top100Liked  | DynamicProgramming |       62 | Unique paths                                              |
@@ -76,8 +77,15 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
 | Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
 | Top100Liked  | LinkedList         |      234 | Palindrome linked list                                    |
+| Top100Liked  | Matrix             |       48 | Rotate image                                              |
+| Top100Liked  | Matrix             |       58 | Spiral matrix                                             |
+| Top100Liked  | Matrix             |       78 | Set matrix zeroes                                         |
+| Top100Liked  | Matrix             |      240 | Search a 2d matrix ii                                     |
+| Top100Liked  | Misc               |       56 | Merge intervals                                           |
 | Top100Liked  | Misc               |      136 | Single number                                             |
 | Top100Liked  | Misc               |      169 | Majority element                                          |
+| Top100Liked  | Misc               |      189 | Rotate array                                              |
+| Top100Liked  | Misc               |      287 | Find the duplicate number                                 |
 | Top100Liked  | Stack              |       20 | Valid parentheses                                         |
 
 [//]: # (LeetCode end)
