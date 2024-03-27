@@ -73,6 +73,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | DynamicProgramming |      416 | Partition equal subset sum                                |
 | Top100Liked  | DynamicProgramming |     1143 | Longest common subsequence                                |
 | Top100Liked  | Graph              |      200 | Number of islands                                         |
+| Top100Liked  | Graph              |      207 | Course schedule                                           |
+| Top100Liked  | Graph              |      994 | Rotting oranges                                           |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
 | Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
@@ -81,7 +83,9 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Matrix             |       58 | Spiral matrix                                             |
 | Top100Liked  | Matrix             |       78 | Set matrix zeroes                                         |
 | Top100Liked  | Matrix             |      240 | Search a 2d matrix ii                                     |
+| Top100Liked  | Misc               |       53 | Maximum subarray                                          |
 | Top100Liked  | Misc               |       56 | Merge intervals                                           |
+| Top100Liked  | Misc               |       75 | Sort colors                                               |
 | Top100Liked  | Misc               |      136 | Single number                                             |
 | Top100Liked  | Misc               |      169 | Majority element                                          |
 | Top100Liked  | Misc               |      189 | Rotate array                                              |
