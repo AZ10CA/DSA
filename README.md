@@ -65,6 +65,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | DynamicProgramming |       70 | Climbing stairs                                           |
 | Top100Liked  | DynamicProgramming |       72 | Edit distance                                             |
 | Top100Liked  | DynamicProgramming |      118 | Pascal's triangle                                         |
+| Top100Liked  | DynamicProgramming |      139 | Word break                                                |
 | Top100Liked  | DynamicProgramming |      152 | Maximum product subarray                                  |
 | Top100Liked  | DynamicProgramming |      198 | House robber                                              |
 | Top100Liked  | DynamicProgramming |      279 | Perfect squares                                           |
@@ -76,6 +77,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Graph              |      207 | Course schedule                                           |
 | Top100Liked  | Graph              |      994 | Rotting oranges                                           |
 | Top100Liked  | Greedy             |      121 | Best time to buy and sell stock                           |
+| Top100Liked  | Hashing            |        1 | Two sum                                                   |
+| Top100Liked  | Hashing            |      128 | Longest consecutive sequence                              |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
 | Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
