@@ -56,8 +56,11 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | BinaryTree         |      104 | Maximum depth of binary tree                              |
 | Top100Liked  | BinaryTree         |      105 | Construct binary tree from preorder and inorder traversal |
 | Top100Liked  | BinaryTree         |      108 | Convert sorted array to binary search tree                |
+| Top100Liked  | BinaryTree         |      114 | Flatten binary tree to linked list                        |
 | Top100Liked  | BinaryTree         |      199 | Binary tree right side view                               |
 | Top100Liked  | BinaryTree         |      230 | Kth smallest element in a bst                             |
+| Top100Liked  | BinaryTree         |      236 | Lowest common ancestor of a binary tree                   |
+| Top100Liked  | BinaryTree         |      437 | Path sum iii                                              |
 | Top100Liked  | BinaryTree         |      543 | Diameter of binary tree                                   |
 | Top100Liked  | DynamicProgramming |        5 | Longest palindromic substring                             |
 | Top100Liked  | DynamicProgramming |       62 | Unique paths                                              |
