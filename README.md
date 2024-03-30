@@ -79,9 +79,12 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Graph              |      200 | Number of islands                                         |
 | Top100Liked  | Graph              |      207 | Course schedule                                           |
 | Top100Liked  | Graph              |      994 | Rotting oranges                                           |
+| Top100Liked  | Greedy             |       45 | Jump game ii                                              |
+| Top100Liked  | Greedy             |       55 | Jump game                                                 |
 | Top100Liked  | Greedy             |      121 | Best time to buy and sell stock                           |
 | Top100Liked  | Hashing            |        1 | Two sum                                                   |
 | Top100Liked  | Hashing            |      128 | Longest consecutive sequence                              |
+| Top100Liked  | Heap               |      347 | Top k frequent elements                                   |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
 | Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
