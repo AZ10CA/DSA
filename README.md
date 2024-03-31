@@ -82,7 +82,9 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Greedy             |       45 | Jump game ii                                              |
 | Top100Liked  | Greedy             |       55 | Jump game                                                 |
 | Top100Liked  | Greedy             |      121 | Best time to buy and sell stock                           |
+| Top100Liked  | Greedy             |      763 | Partition labels                                          |
 | Top100Liked  | Hashing            |        1 | Two sum                                                   |
+| Top100Liked  | Hashing            |       49 | Group anagrams                                            |
 | Top100Liked  | Hashing            |      128 | Longest consecutive sequence                              |
 | Top100Liked  | Heap               |      347 | Top k frequent elements                                   |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
