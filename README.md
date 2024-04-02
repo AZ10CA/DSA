@@ -89,7 +89,11 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Hashing            |      560 | Subarray sum equals k                                     |
 | Top100Liked  | Heap               |      215 | Kth largest element in an array                           |
 | Top100Liked  | Heap               |      347 | Top k frequent elements                                   |
+| Top100Liked  | LinkedList         |        2 | Add two numbers                                           |
+| Top100Liked  | LinkedList         |       19 | Remove nth node from end of list                          |
 | Top100Liked  | LinkedList         |       21 | Merge two sorted lists                                    |
+| Top100Liked  | LinkedList         |       24 | Swap nodes in pairs                                       |
+| Top100Liked  | LinkedList         |      138 | Copy list with random pointer                             |
 | Top100Liked  | LinkedList         |      141 | Linked list cycle                                         |
 | Top100Liked  | LinkedList         |      160 | Intersection of two linked lists                          |
 | Top100Liked  | LinkedList         |      206 | Reverse linked list                                       |
