@@ -1,9 +1,3 @@
-#include <vector>
-#include <iostream>
-#include <unordered_map>
-
-using namespace std;
-
 class Solution {
     // Time & Space: O(4^n * n)
     unordered_map<char, vector<char>> mapping = {

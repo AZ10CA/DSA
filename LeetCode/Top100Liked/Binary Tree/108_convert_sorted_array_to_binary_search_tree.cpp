@@ -9,10 +9,6 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     TreeNode *sortedArrayToBST(vector<int> &nums) {

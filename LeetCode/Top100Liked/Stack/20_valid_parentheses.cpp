@@ -1,8 +1,3 @@
-#include <stack>
-#include <unordered_set>
-
-using namespace std;
-
 class Solution {
 public:
     unordered_set<char> opening = {'(', '[', '{'};

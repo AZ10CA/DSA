@@ -1,8 +1,3 @@
-#include <iostream>
-#include <vector>
-
-using namespace std;
-
 class Solution {
 public:
     vector<pair<int, int>> directions = {{1,  0},

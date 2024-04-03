@@ -1,10 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <unordered_set>
-#include <cassert>
-
-using namespace std;
-
 class Board {
 private:
     int sz;

@@ -6,11 +6,6 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
-#include <unordered_set>
-
-using namespace std;
-
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {

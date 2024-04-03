@@ -1,7 +1,3 @@
-#include <vector>
-
-using namespace std;
-
 class Solution {
     // states: first idx, second idx
     vector<vector<int>> memo;
