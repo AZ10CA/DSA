@@ -39,10 +39,12 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Array & String      |      238 | Product of array except self                              |
 | LeetCode75   | Array & String      |      334 | Increasing triplet subsequence                            |
 | LeetCode75   | Array & String      |      345 | Reverse vowels of a string                                |
+| LeetCode75   | Array & String      |      443 | String compression                                        |
 | LeetCode75   | Array & String      |      605 | Can place flowers                                         |
 | LeetCode75   | Array & String      |     1071 | Greatest common divisor of strings                        |
 | LeetCode75   | Array & String      |     1431 | Kids with the greatest number of candies                  |
 | LeetCode75   | Array & String      |     1768 | Merge strings alternately                                 |
+| LeetCode75   | Two Pointers        |      283 | Move zeroes                                               |
 | Top100Liked  | Backtracking        |       17 | Letter combinations of a phone number                     |
 | Top100Liked  | Backtracking        |       22 | Generate parentheses                                      |
 | Top100Liked  | Backtracking        |       39 | Combination sum                                           |
