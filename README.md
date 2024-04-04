@@ -47,6 +47,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Sliding Window      |      646 | Maximum average subarray i                                |
 | LeetCode75   | Sliding Window      |     1004 | Max consecutive ones iii                                  |
 | LeetCode75   | Sliding Window      |     1456 | Maximum number of vowels in a substring of given length   |
+| LeetCode75   | Sliding Window      |     1493 | Longest subarray of 1's after deleting one element        |
 | LeetCode75   | Two Pointers        |       11 | Container with most water                                 |
 | LeetCode75   | Two Pointers        |      283 | Move zeroes                                               |
 | LeetCode75   | Two Pointers        |      392 | Is subsequence                                            |
