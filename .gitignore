@@ -115,3 +115,5 @@ CMakeLists.txt
 # conaninfo.txt
 
 # Add here any other file types or folders specific to your project
+
+ignore_dir
