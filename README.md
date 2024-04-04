@@ -44,6 +44,10 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Array & String      |     1071 | Greatest common divisor of strings                        |
 | LeetCode75   | Array & String      |     1431 | Kids with the greatest number of candies                  |
 | LeetCode75   | Array & String      |     1768 | Merge strings alternately                                 |
+| LeetCode75   | Hash Map & Set      |     1207 | Unique number of occurrences                              |
+| LeetCode75   | Hash Map & Set      |     2215 | Find the difference of two arrays                         |
+| LeetCode75   | Prefix Sum          |      724 | Find pivot index                                          |
+| LeetCode75   | Prefix Sum          |     1732 | Find the highest altitude                                 |
 | LeetCode75   | Sliding Window      |      646 | Maximum average subarray i                                |
 | LeetCode75   | Sliding Window      |     1004 | Max consecutive ones iii                                  |
 | LeetCode75   | Sliding Window      |     1456 | Maximum number of vowels in a substring of given length   |
