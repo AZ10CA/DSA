@@ -44,8 +44,13 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Array & String      |     1071 | Greatest common divisor of strings                        |
 | LeetCode75   | Array & String      |     1431 | Kids with the greatest number of candies                  |
 | LeetCode75   | Array & String      |     1768 | Merge strings alternately                                 |
+| LeetCode75   | Sliding Window      |      646 | Maximum average subarray i                                |
+| LeetCode75   | Sliding Window      |     1004 | Max consecutive ones iii                                  |
+| LeetCode75   | Sliding Window      |     1456 | Maximum number of vowels in a substring of given length   |
+| LeetCode75   | Two Pointers        |       11 | Container with most water                                 |
 | LeetCode75   | Two Pointers        |      283 | Move zeroes                                               |
 | LeetCode75   | Two Pointers        |      392 | Is subsequence                                            |
+| LeetCode75   | Two Pointers        |     1679 | Max number of k-sum pairs                                 |
 | Top100Liked  | Backtracking        |       17 | Letter combinations of a phone number                     |
 | Top100Liked  | Backtracking        |       22 | Generate parentheses                                      |
 | Top100Liked  | Backtracking        |       39 | Combination sum                                           |
