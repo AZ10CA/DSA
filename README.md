@@ -45,7 +45,9 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Array & String      |     1431 | Kids with the greatest number of candies                  |
 | LeetCode75   | Array & String      |     1768 | Merge strings alternately                                 |
 | LeetCode75   | Hash Map & Set      |     1207 | Unique number of occurrences                              |
+| LeetCode75   | Hash Map & Set      |     1657 | Determine if two strings are close                        |
 | LeetCode75   | Hash Map & Set      |     2215 | Find the difference of two arrays                         |
+| LeetCode75   | Hash Map & Set      |     2352 | Equal row and column pairs                                |
 | LeetCode75   | Prefix Sum          |      724 | Find pivot index                                          |
 | LeetCode75   | Prefix Sum          |     1732 | Find the highest altitude                                 |
 | LeetCode75   | Sliding Window      |      646 | Maximum average subarray i                                |
