@@ -50,10 +50,15 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Hash Map & Set      |     2352 | Equal row and column pairs                                |
 | LeetCode75   | Prefix Sum          |      724 | Find pivot index                                          |
 | LeetCode75   | Prefix Sum          |     1732 | Find the highest altitude                                 |
+| LeetCode75   | Queue               |      649 | Dota2 senate                                              |
+| LeetCode75   | Queue               |      933 | Number of recent calls                                    |
 | LeetCode75   | Sliding Window      |      646 | Maximum average subarray i                                |
 | LeetCode75   | Sliding Window      |     1004 | Max consecutive ones iii                                  |
 | LeetCode75   | Sliding Window      |     1456 | Maximum number of vowels in a substring of given length   |
 | LeetCode75   | Sliding Window      |     1493 | Longest subarray of 1's after deleting one element        |
+| LeetCode75   | Stack               |      394 | Decode string                                             |
+| LeetCode75   | Stack               |      735 | Asteroid collision                                        |
+| LeetCode75   | Stack               |     2390 | Removing stars from a string                              |
 | LeetCode75   | Two Pointers        |       11 | Container with most water                                 |
 | LeetCode75   | Two Pointers        |      283 | Move zeroes                                               |
 | LeetCode75   | Two Pointers        |      392 | Is subsequence                                            |
