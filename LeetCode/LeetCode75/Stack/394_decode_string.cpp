@@ -1,7 +1,7 @@
 class Solution {
 public:
     pair<string, int> recursiveDecoder(const string& str, int pos){
-        // Time: O(n * k), Space: O(n) where k is the average multiplier
+        // Time: O(n * k), Space: O(n * k) where k is the average multiplier
 
         string result;
         int multiplier = 0;
