@@ -48,6 +48,10 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Hash Map & Set      |     1657 | Determine if two strings are close                        |
 | LeetCode75   | Hash Map & Set      |     2215 | Find the difference of two arrays                         |
 | LeetCode75   | Hash Map & Set      |     2352 | Equal row and column pairs                                |
+| LeetCode75   | Linked List         |      206 | Reverse linked list                                       |
+| LeetCode75   | Linked List         |      328 | Odd even linked list                                      |
+| LeetCode75   | Linked List         |     2095 | Delete the middle node of a linked list                   |
+| LeetCode75   | Linked List         |     2130 | Maximum twin sum of a linked list                         |
 | LeetCode75   | Prefix Sum          |      724 | Find pivot index                                          |
 | LeetCode75   | Prefix Sum          |     1732 | Find the highest altitude                                 |
 | LeetCode75   | Queue               |      649 | Dota2 senate                                              |
