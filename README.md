@@ -36,7 +36,6 @@ While this is a personal project to track my own learning and progress, I'm open
 | Study plan   | Category              |   Number | Title                                                     |
 |:-------------|:----------------------|---------:|:----------------------------------------------------------|
 | LeetCode75   | Array & String        |      151 | Reverse words in a string                                 |
-| LeetCode75   | Array & String        |      238 | Product of array except self                              |
 | LeetCode75   | Array & String        |      334 | Increasing triplet subsequence                            |
 | LeetCode75   | Array & String        |      345 | Reverse vowels of a string                                |
 | LeetCode75   | Array & String        |      443 | String compression                                        |
@@ -47,6 +46,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Binary Tree - DFS     |      104 | Maximum depth of binary tree                              |
 | LeetCode75   | Binary Tree - DFS     |      872 | Leaf-similar trees                                        |
 | LeetCode75   | Binary Tree - DFS     |     1448 | Count good nodes in binary tree                           |
+| LeetCode75   | DP - 1D               |     1137 | N-th tribonacci number                                    |
 | LeetCode75   | DP - Multidimensional |      714 | Best time to buy and sell stock with transaction fee      |
 | LeetCode75   | Hash Map & Set        |     1207 | Unique number of occurrences                              |
 | LeetCode75   | Hash Map & Set        |     1657 | Determine if two strings are close                        |
