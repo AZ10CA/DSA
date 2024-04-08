@@ -13,7 +13,7 @@ LinkedList* findLoop(LinkedList* head) {
     // Time: O(n), Space: O(1)
     // find out the size of the cycle
     // reset the fast and slow pointers to the beginning but move the fast pointer forward by the cycle size
-    // this guarantees that two pointers will meet in the origin of the cycle if we both pointers one at a time
+    // this guarantees that two pointers will meet in the origin of the cycle if we move both pointers one at a time
     auto fast = head->next, slow = head;
     auto cycle_size = 0;
     while(fast && fast->next){
