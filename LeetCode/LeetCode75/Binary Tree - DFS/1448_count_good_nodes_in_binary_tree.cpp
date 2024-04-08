@@ -11,23 +11,27 @@
  */
 class Solution {
 public:
-    bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        vector<int> leaves1, leaves2;
-        get_leaves(root1, leaves1);
-        get_leaves(root2, leaves2);
+    int goodNodes(TreeNode* root) {
+        if(!root)
+            return 0;
 
-        return leaves1 == leaves2;
+        int counter = 0;
+        traverse(root, root->val, counter);
+
+        return counter;
     }
 
-    void get_leaves(TreeNode* root, vector<int>& result){
+    void traverse(TreeNode* root, int max, int& counter){
         // Time: O(n), Space: O(h)
         if(!root)
             return;
 
-        if(!root->left && !root->right)
-            result.push_back(root->val);
+        if(root->val >= max)
+            counter++;
 
-        get_leaves(root->left, result);
-        get_leaves(root->right, result);
+        max = std::max(max, root->val);
+
+        traverse(root->left, max, counter);
+        traverse(root->right, max, counter);
     }
 };
