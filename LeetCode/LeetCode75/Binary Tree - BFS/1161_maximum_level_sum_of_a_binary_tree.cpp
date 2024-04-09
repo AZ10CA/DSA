@@ -12,6 +12,7 @@
 class Solution {
 public:
     int maxLevelSum(TreeNode* root) {
+        // Time: O(n), Space: O(n)
         queue<TreeNode*> to_visit;
         to_visit.push(root);
         long long max_level_sum = root->val;

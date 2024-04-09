@@ -2,6 +2,7 @@ class Solution {
 public:
 
     void backtrack(int start, vector<int>& current_combo, vector<vector<int>>& result, int target, int k){
+        // Time: O(9!/(9-k)!), Space: O(9!/(9-k)!)
         if(current_combo.size() > k)
             return;
 

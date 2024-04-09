@@ -43,9 +43,13 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75   | Array & String        |     1071 | Greatest common divisor of strings                        |
 | LeetCode75   | Array & String        |     1431 | Kids with the greatest number of candies                  |
 | LeetCode75   | Array & String        |     1768 | Merge strings alternately                                 |
+| LeetCode75   | Backtracking          |      216 | Combination sum iii                                       |
+| LeetCode75   | Binary Search Tree    |      700 | Search in a binary search tree                            |
+| LeetCode75   | Binary Tree - BFS     |     1161 | Maximum level sum of a binary tree                        |
 | LeetCode75   | Binary Tree - DFS     |      104 | Maximum depth of binary tree                              |
 | LeetCode75   | Binary Tree - DFS     |      872 | Leaf-similar trees                                        |
 | LeetCode75   | Binary Tree - DFS     |     1448 | Count good nodes in binary tree                           |
+| LeetCode75   | DP - 1D               |      746 | Min cost climbing stairs                                  |
 | LeetCode75   | DP - 1D               |     1137 | N-th tribonacci number                                    |
 | LeetCode75   | DP - Multidimensional |      714 | Best time to buy and sell stock with transaction fee      |
 | LeetCode75   | Hash Map & Set        |     1207 | Unique number of occurrences                              |
