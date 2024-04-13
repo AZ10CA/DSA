@@ -156,7 +156,9 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Misc                  |      238 | Product of array except self                              |
 | Top100Liked  | Misc                  |      287 | Find the duplicate number                                 |
 | Top100Liked  | Sliding Window        |        3 | Longest substring without repeating characters            |
+| Top100Liked  | Sliding Window        |      438 | Find all anagrams in a string                             |
 | Top100Liked  | Stack                 |       20 | Valid parentheses                                         |
+| Top100Liked  | Stack                 |      155 | Min stack                                                 |
 
 [//]: # (LeetCode end)
 
