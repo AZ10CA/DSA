@@ -140,6 +140,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Linked List           |      138 | Copy list with random pointer                             |
 | Top100Liked  | Linked List           |      141 | Linked list cycle                                         |
 | Top100Liked  | Linked List           |      142 | Linked list cycle ii                                      |
+| Top100Liked  | Linked List           |      146 | Lru cache                                                 |
 | Top100Liked  | Linked List           |      160 | Intersection of two linked lists                          |
 | Top100Liked  | Linked List           |      206 | Reverse linked list                                       |
 | Top100Liked  | Linked List           |      234 | Palindrome linked list                                    |
@@ -159,6 +160,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Sliding Window        |      438 | Find all anagrams in a string                             |
 | Top100Liked  | Stack                 |       20 | Valid parentheses                                         |
 | Top100Liked  | Stack                 |      155 | Min stack                                                 |
+| Top100Liked  | Two Pointers          |       15 | 3sum                                                      |
 
 [//]: # (LeetCode end)
 
