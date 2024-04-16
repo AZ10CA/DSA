@@ -136,6 +136,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Linked List           |        2 | Add two numbers                                           |
 | Top100Liked  | Linked List           |       19 | Remove nth node from end of list                          |
 | Top100Liked  | Linked List           |       21 | Merge two sorted lists                                    |
+| Top100Liked  | Linked List           |       23 | Merge k sorted lists                                      |
 | Top100Liked  | Linked List           |       24 | Swap nodes in pairs                                       |
 | Top100Liked  | Linked List           |      138 | Copy list with random pointer                             |
 | Top100Liked  | Linked List           |      141 | Linked list cycle                                         |
@@ -161,6 +162,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked  | Sliding Window        |      438 | Find all anagrams in a string                             |
 | Top100Liked  | Stack                 |       20 | Valid parentheses                                         |
 | Top100Liked  | Stack                 |      155 | Min stack                                                 |
+| Top100Liked  | Stack                 |      739 | Daily temperatures                                        |
+| Top100Liked  | Trie                  |      208 | Implement trie (prefix tree)                              |
 | Top100Liked  | Two Pointers          |       15 | 3sum                                                      |
 
 [//]: # (LeetCode end)
