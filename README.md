@@ -170,6 +170,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Array & String        |       80 | Remove duplicates from sorted array ii                    |
 | TopInterview150 | Array & String        |       88 | Merge sorted array                                        |
 | TopInterview150 | Array & String        |      122 | Best time to buy and sell stock ii                        |
+| TopInterview150 | Array & String        |      274 | H-index                                                   |
+| TopInterview150 | Array & String        |      380 | Insert delete getrandom o(1)                              |
 
 [//]: # (LeetCode end)
 
