@@ -179,6 +179,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Array & String        |      380 | Insert delete getrandom o(1)                              |
 | TopInterview150 | Hashmap               |      202 | Happy number                                              |
 | TopInterview150 | Hashmap               |      205 | Isomorphic strings                                        |
+| TopInterview150 | Hashmap               |      242 | Valid anagram                                             |
 | TopInterview150 | Hashmap               |      290 | Word pattern                                              |
 | TopInterview150 | Hashmap               |      383 | Ransom note                                               |
 | TopInterview150 | Sliding Window        |       36 | Valid sudoku                                              |
