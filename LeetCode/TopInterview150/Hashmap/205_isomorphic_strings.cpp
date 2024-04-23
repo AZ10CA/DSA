@@ -12,6 +12,15 @@ public:
                 return false;
         }
 
+        unordered_set<char> seen;
+        for(auto& [from, to]: mapping){
+            if(seen.find(to) != seen.end())
+                return false;
+
+            seen.insert(to);
+        }
+
+
         return true;
     }
 };
