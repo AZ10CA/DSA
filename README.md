@@ -165,13 +165,27 @@ While this is a personal project to track my own learning and progress, I'm open
 | Top100Liked     | Stack                 |      739 | Daily temperatures                                        |
 | Top100Liked     | Trie                  |      208 | Implement trie (prefix tree)                              |
 | Top100Liked     | Two Pointers          |       15 | 3sum                                                      |
+| TopInterview150 | Array & String        |       12 | Integer to roman                                          |
+| TopInterview150 | Array & String        |       13 | Roman to integer                                          |
+| TopInterview150 | Array & String        |       14 | Longest common prefix                                     |
 | TopInterview150 | Array & String        |       26 | Remove duplicates from sorted array                       |
 | TopInterview150 | Array & String        |       27 | Remove element                                            |
+| TopInterview150 | Array & String        |       28 | Find the index of the first occurrence in a string        |
+| TopInterview150 | Array & String        |       58 | Length of last word                                       |
 | TopInterview150 | Array & String        |       80 | Remove duplicates from sorted array ii                    |
 | TopInterview150 | Array & String        |       88 | Merge sorted array                                        |
 | TopInterview150 | Array & String        |      122 | Best time to buy and sell stock ii                        |
 | TopInterview150 | Array & String        |      274 | H-index                                                   |
 | TopInterview150 | Array & String        |      380 | Insert delete getrandom o(1)                              |
+| TopInterview150 | Hashmap               |      202 | Happy number                                              |
+| TopInterview150 | Hashmap               |      205 | Isomorphic strings                                        |
+| TopInterview150 | Hashmap               |      290 | Word pattern                                              |
+| TopInterview150 | Hashmap               |      383 | Ransom note                                               |
+| TopInterview150 | Sliding Window        |       36 | Valid sudoku                                              |
+| TopInterview150 | Sliding Window        |      209 | Minimum size subarray sum                                 |
+| TopInterview150 | Stack                 |       71 | Simplify path                                             |
+| TopInterview150 | Two Pointers          |      125 | Valid palindrome                                          |
+| TopInterview150 | Two Pointers          |      167 | Two sum ii - input array is sorted                        |
 
 [//]: # (LeetCode end)
 
