@@ -177,14 +177,22 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Array & String        |      122 | Best time to buy and sell stock ii                        |
 | TopInterview150 | Array & String        |      274 | H-index                                                   |
 | TopInterview150 | Array & String        |      380 | Insert delete getrandom o(1)                              |
+| TopInterview150 | Binary Tree BFS       |      637 | Average of levels in binary tree                          |
+| TopInterview150 | Binary Tree General   |      100 | Same tree                                                 |
+| TopInterview150 | Binary Tree General   |      112 | Path sum                                                  |
+| TopInterview150 | Binary Tree General   |      129 | Sum root to leaf numbers                                  |
+| TopInterview150 | Binary Tree General   |      173 | Binary search tree iterator                               |
 | TopInterview150 | Hashmap               |      202 | Happy number                                              |
 | TopInterview150 | Hashmap               |      205 | Isomorphic strings                                        |
 | TopInterview150 | Hashmap               |      242 | Valid anagram                                             |
 | TopInterview150 | Hashmap               |      290 | Word pattern                                              |
 | TopInterview150 | Hashmap               |      383 | Ransom note                                               |
+| TopInterview150 | Intervals             |      228 | Summary ranges                                            |
+| TopInterview150 | Matrix                |      289 | Game of life                                              |
 | TopInterview150 | Sliding Window        |       36 | Valid sudoku                                              |
 | TopInterview150 | Sliding Window        |      209 | Minimum size subarray sum                                 |
 | TopInterview150 | Stack                 |       71 | Simplify path                                             |
+| TopInterview150 | Stack                 |      150 | Evaluate reverse polish notation                          |
 | TopInterview150 | Two Pointers          |      125 | Valid palindrome                                          |
 | TopInterview150 | Two Pointers          |      167 | Two sum ii - input array is sorted                        |
 
