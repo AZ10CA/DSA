@@ -182,12 +182,20 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Binary Tree General   |      112 | Path sum                                                  |
 | TopInterview150 | Binary Tree General   |      129 | Sum root to leaf numbers                                  |
 | TopInterview150 | Binary Tree General   |      173 | Binary search tree iterator                               |
+| TopInterview150 | Bit Manipulation      |      190 | Reverse bits                                              |
+| TopInterview150 | Bit Manipulation      |      191 | Number of 1 bits                                          |
+| TopInterview150 | Graph General         |      399 | Evaluate division                                         |
 | TopInterview150 | Hashmap               |      202 | Happy number                                              |
 | TopInterview150 | Hashmap               |      205 | Isomorphic strings                                        |
 | TopInterview150 | Hashmap               |      242 | Valid anagram                                             |
 | TopInterview150 | Hashmap               |      290 | Word pattern                                              |
 | TopInterview150 | Hashmap               |      383 | Ransom note                                               |
 | TopInterview150 | Intervals             |      228 | Summary ranges                                            |
+| TopInterview150 | LinkedList            |       61 | Rotate list                                               |
+| TopInterview150 | Math                  |        9 | Palindrome number                                         |
+| TopInterview150 | Math                  |       50 | Pow(x,n)                                                  |
+| TopInterview150 | Math                  |       66 | Plus one                                                  |
+| TopInterview150 | Math                  |       69 | Sqrt(x)                                                   |
 | TopInterview150 | Matrix                |      289 | Game of life                                              |
 | TopInterview150 | Sliding Window        |       36 | Valid sudoku                                              |
 | TopInterview150 | Sliding Window        |      209 | Minimum size subarray sum                                 |
