@@ -182,6 +182,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Binary Tree General   |      112 | Path sum                                                  |
 | TopInterview150 | Binary Tree General   |      129 | Sum root to leaf numbers                                  |
 | TopInterview150 | Binary Tree General   |      173 | Binary search tree iterator                               |
+| TopInterview150 | Binary Tree General   |      222 | Count complete tree nodes                                 |
 | TopInterview150 | Bit Manipulation      |      190 | Reverse bits                                              |
 | TopInterview150 | Bit Manipulation      |      191 | Number of 1 bits                                          |
 | TopInterview150 | Graph General         |      399 | Evaluate division                                         |
@@ -190,7 +191,9 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Hashmap               |      242 | Valid anagram                                             |
 | TopInterview150 | Hashmap               |      290 | Word pattern                                              |
 | TopInterview150 | Hashmap               |      383 | Ransom note                                               |
+| TopInterview150 | Intervals             |       57 | Insert interval                                           |
 | TopInterview150 | Intervals             |      228 | Summary ranges                                            |
+| TopInterview150 | Intervals             |      452 | Minimum number of arrows to burst balloons                |
 | TopInterview150 | LinkedList            |       61 | Rotate list                                               |
 | TopInterview150 | Math                  |        9 | Palindrome number                                         |
 | TopInterview150 | Math                  |       50 | Pow(x,n)                                                  |
