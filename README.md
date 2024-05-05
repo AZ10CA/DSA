@@ -177,6 +177,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Array & String        |      122 | Best time to buy and sell stock ii                        |
 | TopInterview150 | Array & String        |      274 | H-index                                                   |
 | TopInterview150 | Array & String        |      380 | Insert delete getrandom o(1)                              |
+| TopInterview150 | Backtracking          |       77 | Combinations                                              |
+| TopInterview150 | Binary Search         |      162 | Find peak element                                         |
 | TopInterview150 | Binary Tree BFS       |      637 | Average of levels in binary tree                          |
 | TopInterview150 | Binary Tree General   |      100 | Same tree                                                 |
 | TopInterview150 | Binary Tree General   |      112 | Path sum                                                  |
@@ -185,6 +187,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Binary Tree General   |      222 | Count complete tree nodes                                 |
 | TopInterview150 | Bit Manipulation      |      190 | Reverse bits                                              |
 | TopInterview150 | Bit Manipulation      |      191 | Number of 1 bits                                          |
+| TopInterview150 | Graph General         |      130 | Surrounded regions                                        |
+| TopInterview150 | Graph General         |      133 | Clone graph                                               |
 | TopInterview150 | Graph General         |      399 | Evaluate division                                         |
 | TopInterview150 | Hashmap               |      202 | Happy number                                              |
 | TopInterview150 | Hashmap               |      205 | Isomorphic strings                                        |
