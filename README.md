@@ -35,6 +35,10 @@ While this is a personal project to track my own learning and progress, I'm open
 
 | Study plan      | Category              |   Number | Title                                                     |
 |:----------------|:----------------------|---------:|:----------------------------------------------------------|
+| Binary Search   | Search In Array       |      704 | Binary search                                             |
+| Binary Search   | Search In Array       |      744 | Find smallest letter greater than target                  |
+| Binary Search   | Search In Array       |     1351 | Count negative numbers in a sorted matrix                 |
+| Binary Search   | Standard Search       |      278 | First bad version                                         |
 | LeetCode75      | Array & String        |      151 | Reverse words in a string                                 |
 | LeetCode75      | Array & String        |      334 | Increasing triplet subsequence                            |
 | LeetCode75      | Array & String        |      345 | Reverse vowels of a string                                |
@@ -79,6 +83,16 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75      | Two Pointers          |      283 | Move zeroes                                               |
 | LeetCode75      | Two Pointers          |      392 | Is subsequence                                            |
 | LeetCode75      | Two Pointers          |     1679 | Max number of k-sum pairs                                 |
+| Random          | Hash Table            |      771 | Jewels and stones                                         |
+| Random          | Hash Table            |      804 | Unique morse code words                                   |
+| Random          | Hash Table            |     1365 | How many numbers are smaller than the current number      |
+| Random          | Hash Table            |     1512 | Number of good pairs                                      |
+| Random          | Hash Table            |     1684 | Count the number of consistent strings                    |
+| Random          | Hash Table            |     1832 | Check if the sentence is panagram                         |
+| Random          | Hash Table            |     2006 | Count number of pairs with absolute difference k          |
+| Random          | Hash Table            |     2325 | Decode the message                                        |
+| Random          | Hash Table            |     2367 | Number of arithmetic triplets                             |
+| Random          | Hash Table            |     2744 | Find minimum number of string pairs                       |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                     |
 | Top100Liked     | Backtracking          |       22 | Generate parentheses                                      |
 | Top100Liked     | Backtracking          |       39 | Combination sum                                           |
@@ -175,10 +189,12 @@ While this is a personal project to track my own learning and progress, I'm open
 | TopInterview150 | Array & String        |       80 | Remove duplicates from sorted array ii                    |
 | TopInterview150 | Array & String        |       88 | Merge sorted array                                        |
 | TopInterview150 | Array & String        |      122 | Best time to buy and sell stock ii                        |
+| TopInterview150 | Array & String        |      134 | Gas station                                               |
 | TopInterview150 | Array & String        |      274 | H-index                                                   |
 | TopInterview150 | Array & String        |      380 | Insert delete getrandom o(1)                              |
 | TopInterview150 | Backtracking          |       77 | Combinations                                              |
 | TopInterview150 | Binary Search         |      162 | Find peak element                                         |
+| TopInterview150 | Binary Search Tree    |      530 | Minimum absolute difference in bst                        |
 | TopInterview150 | Binary Tree BFS       |      637 | Average of levels in binary tree                          |
 | TopInterview150 | Binary Tree General   |      100 | Same tree                                                 |
 | TopInterview150 | Binary Tree General   |      112 | Path sum                                                  |
