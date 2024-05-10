@@ -93,6 +93,9 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Hash Table            |     2325 | Decode the message                                        |
 | Random          | Hash Table            |     2367 | Number of arithmetic triplets                             |
 | Random          | Hash Table            |     2744 | Find minimum number of string pairs                       |
+| Random          | Linked List           |      203 | Remove linked list elements                               |
+| Random          | Linked List           |      876 | Middle node of the linked list                            |
+| Random          | Linked List           |     1290 | Convert binary number in a linked list to integer         |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                     |
 | Top100Liked     | Backtracking          |       22 | Generate parentheses                                      |
 | Top100Liked     | Backtracking          |       39 | Combination sum                                           |
