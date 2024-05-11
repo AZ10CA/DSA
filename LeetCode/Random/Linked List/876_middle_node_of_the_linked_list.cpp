@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+        // Time: O(n), Space: O(1)
         auto slow = head, fast = head;
         while(fast && fast->next){
             slow = slow->next;
