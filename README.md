@@ -87,6 +87,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Hash Table            |      349 | Intersection of two arrays                                   |
 | Random          | Hash Table            |      771 | Jewels and stones                                            |
 | Random          | Hash Table            |      804 | Unique morse code words                                      |
+| Random          | Hash Table            |     1282 | Group the people given the group size they belong to         |
 | Random          | Hash Table            |     1365 | How many numbers are smaller than the current number         |
 | Random          | Hash Table            |     1512 | Number of good pairs                                         |
 | Random          | Hash Table            |     1684 | Count the number of consistent strings                       |
@@ -99,6 +100,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Linked List           |      203 | Remove linked list elements                                  |
 | Random          | Linked List           |      876 | Middle node of the linked list                               |
 | Random          | Linked List           |     1290 | Convert binary number in a linked list to integer            |
+| Random          | Linked List           |     2807 | Insert greatest common divisor in linked list                |
 | Random          | Sorting               |     1637 | Widest vertical area between two points containing no points |
 | Random          | Sorting               |     1859 | Sorting the sentence                                         |
 | Random          | Sorting               |     2037 | Minimum number of moves to seat everyone                     |
