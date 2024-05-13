@@ -10,7 +10,7 @@ public:
 
         // if less than half of the bits in the second columns are 0, flip the column
         for(int i = 0; i < grid[0].size(); i++){
-            auto count = count_one_in_cols(i, grid);
+            auto count = count_ones_in_col(i, grid);
             if(count < grid.size() - count)
                 flip_col(i, grid);
         }
@@ -39,7 +39,7 @@ public:
             grid[j][i] = !grid[j][i];
     }
 
-    int count_one_in_cols(int col, matrix& grid){
+    int count_ones_in_col(int col, matrix& grid){
         auto cnt = 0;
         for(int i = 0; i < grid.size(); i++)
             cnt += grid[i][col] == 1;
