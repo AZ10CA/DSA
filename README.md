@@ -83,6 +83,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75      | Two Pointers          |      283 | Move zeroes                                                  |
 | LeetCode75      | Two Pointers          |      392 | Is subsequence                                               |
 | LeetCode75      | Two Pointers          |     1679 | Max number of k-sum pairs                                    |
+| Random          | Bit Manipulation      |      861 | Score after flipping matrix                                  |
+| Random          | Hash Table            |      349 | Intersection of two arrays                                   |
 | Random          | Hash Table            |      771 | Jewels and stones                                            |
 | Random          | Hash Table            |      804 | Unique morse code words                                      |
 | Random          | Hash Table            |     1365 | How many numbers are smaller than the current number         |
@@ -92,13 +94,16 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Hash Table            |     2006 | Count number of pairs with absolute difference k             |
 | Random          | Hash Table            |     2325 | Decode the message                                           |
 | Random          | Hash Table            |     2367 | Number of arithmetic triplets                                |
+| Random          | Hash Table            |     2441 | Largest positive integer that exists with its negative       |
 | Random          | Hash Table            |     2744 | Find minimum number of string pairs                          |
 | Random          | Linked List           |      203 | Remove linked list elements                                  |
 | Random          | Linked List           |      876 | Middle node of the linked list                               |
 | Random          | Linked List           |     1290 | Convert binary number in a linked list to integer            |
 | Random          | Sorting               |     1637 | Widest vertical area between two points containing no points |
 | Random          | Sorting               |     1859 | Sorting the sentence                                         |
+| Random          | Sorting               |     2037 | Minimum number of moves to seat everyone                     |
 | Random          | Sorting               |     2160 | Minimum sum of four digit number after splitting digits      |
+| Random          | Sorting               |     2418 | Sort the people                                              |
 | Random          | Sorting               |     2824 | Count pairs whose sum is less than target                    |
 | Random          | Sorting               |     2974 | Minimum number game                                          |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                        |
