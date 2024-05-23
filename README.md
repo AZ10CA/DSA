@@ -83,8 +83,16 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75      | Two Pointers          |      283 | Move zeroes                                                  |
 | LeetCode75      | Two Pointers          |      392 | Is subsequence                                               |
 | LeetCode75      | Two Pointers          |     1679 | Max number of k-sum pairs                                    |
+| Random          | Array                 |     1769 | Minimum number of operations to move all balls to each box   |
+| Random          | Array                 |     2149 | Rearrange array elements by sign                             |
+| Random          | Array                 |     2391 | Minimum amount of time to collect garbage                    |
+| Random          | Array                 |     2545 | Sort the students by their kth score                         |
+| Random          | Binary Tree           |     1302 | Deepest leaves sum                                           |
+| Random          | Binary Tree           |     1315 | Sum of nodes with even-valued grandparent                    |
+| Random          | Binary Tree           |     2265 | Count nodes equal to average of subtree                      |
 | Random          | Bit Manipulation      |      861 | Score after flipping matrix                                  |
 | Random          | Hash Table            |      349 | Intersection of two arrays                                   |
+| Random          | Hash Table            |      535 | Encode and decode tinyurl                                    |
 | Random          | Hash Table            |      771 | Jewels and stones                                            |
 | Random          | Hash Table            |      804 | Unique morse code words                                      |
 | Random          | Hash Table            |     1282 | Group the people given the group size they belong to         |
@@ -98,9 +106,14 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Hash Table            |     2441 | Largest positive integer that exists with its negative       |
 | Random          | Hash Table            |     2744 | Find minimum number of string pairs                          |
 | Random          | Linked List           |      203 | Remove linked list elements                                  |
+| Random          | Linked List           |      237 | Delete node in linked list                                   |
 | Random          | Linked List           |      876 | Middle node of the linked list                               |
 | Random          | Linked List           |     1290 | Convert binary number in a linked list to integer            |
+| Random          | Linked List           |     2181 | Merge nodes in between zeroes                                |
 | Random          | Linked List           |     2807 | Insert greatest common divisor in linked list                |
+| Random          | Matrix                |      807 | Max increase to keep city skyline                            |
+| Random          | Matrix                |     2125 | Number of laser beams in a bank                              |
+| Random          | Sorting               |     1561 | Maximum number of coins you can get                          |
 | Random          | Sorting               |     1637 | Widest vertical area between two points containing no points |
 | Random          | Sorting               |     1859 | Sorting the sentence                                         |
 | Random          | Sorting               |     2037 | Minimum number of moves to seat everyone                     |
