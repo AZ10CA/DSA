@@ -87,10 +87,14 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Array                 |     2149 | Rearrange array elements by sign                             |
 | Random          | Array                 |     2391 | Minimum amount of time to collect garbage                    |
 | Random          | Array                 |     2545 | Sort the students by their kth score                         |
+| Random          | Binary Tree           |      111 | Minimum depth of binary tree                                 |
+| Random          | Binary Tree           |      144 | Binary tree preorder traversal                               |
+| Random          | Binary Tree           |      145 | Binary tree postorder traversal                              |
 | Random          | Binary Tree           |     1302 | Deepest leaves sum                                           |
 | Random          | Binary Tree           |     1315 | Sum of nodes with even-valued grandparent                    |
 | Random          | Binary Tree           |     2265 | Count nodes equal to average of subtree                      |
 | Random          | Bit Manipulation      |      861 | Score after flipping matrix                                  |
+| Random          | Hash Table            |      217 | Contains duplicate                                           |
 | Random          | Hash Table            |      349 | Intersection of two arrays                                   |
 | Random          | Hash Table            |      535 | Encode and decode tinyurl                                    |
 | Random          | Hash Table            |      771 | Jewels and stones                                            |
@@ -111,6 +115,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Linked List           |     1290 | Convert binary number in a linked list to integer            |
 | Random          | Linked List           |     2181 | Merge nodes in between zeroes                                |
 | Random          | Linked List           |     2807 | Insert greatest common divisor in linked list                |
+| Random          | Math                  |      171 | Excel sheet column number                                    |
 | Random          | Matrix                |      807 | Max increase to keep city skyline                            |
 | Random          | Matrix                |     2125 | Number of laser beams in a bank                              |
 | Random          | Sorting               |     1561 | Maximum number of coins you can get                          |
