@@ -83,6 +83,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | LeetCode75      | Two Pointers          |      283 | Move zeroes                                                  |
 | LeetCode75      | Two Pointers          |      392 | Is subsequence                                               |
 | LeetCode75      | Two Pointers          |     1679 | Max number of k-sum pairs                                    |
+| Random          | Array                 |      268 | Missing number                                               |
+| Random          | Array                 |      303 | Range sum query - immutable                                  |
 | Random          | Array                 |     1769 | Minimum number of operations to move all balls to each box   |
 | Random          | Array                 |     2149 | Rearrange array elements by sign                             |
 | Random          | Array                 |     2391 | Minimum amount of time to collect garbage                    |
@@ -90,6 +92,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Binary Tree           |      111 | Minimum depth of binary tree                                 |
 | Random          | Binary Tree           |      144 | Binary tree preorder traversal                               |
 | Random          | Binary Tree           |      145 | Binary tree postorder traversal                              |
+| Random          | Binary Tree           |      257 | Binary tree paths                                            |
 | Random          | Binary Tree           |     1302 | Deepest leaves sum                                           |
 | Random          | Binary Tree           |     1315 | Sum of nodes with even-valued grandparent                    |
 | Random          | Binary Tree           |     2265 | Count nodes equal to average of subtree                      |
@@ -116,6 +119,10 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Linked List           |     2181 | Merge nodes in between zeroes                                |
 | Random          | Linked List           |     2807 | Insert greatest common divisor in linked list                |
 | Random          | Math                  |      171 | Excel sheet column number                                    |
+| Random          | Math                  |      231 | Power of two                                                 |
+| Random          | Math                  |      258 | Add digits                                                   |
+| Random          | Math                  |      263 | Ugly number                                                  |
+| Random          | Math                  |      326 | Power of three                                               |
 | Random          | Matrix                |      807 | Max increase to keep city skyline                            |
 | Random          | Matrix                |     2125 | Number of laser beams in a bank                              |
 | Random          | Sorting               |     1561 | Maximum number of coins you can get                          |
@@ -126,6 +133,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Sorting               |     2418 | Sort the people                                              |
 | Random          | Sorting               |     2824 | Count pairs whose sum is less than target                    |
 | Random          | Sorting               |     2974 | Minimum number game                                          |
+| Random          | String                |      344 | Reverse string                                               |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                        |
 | Top100Liked     | Backtracking          |       22 | Generate parentheses                                         |
 | Top100Liked     | Backtracking          |       39 | Combination sum                                              |
