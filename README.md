@@ -134,6 +134,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Sorting               |     2824 | Count pairs whose sum is less than target                    |
 | Random          | Sorting               |     2974 | Minimum number game                                          |
 | Random          | String                |      344 | Reverse string                                               |
+| Random          | String                |      387 | First unique character in a string                           |
+| Random          | String                |      389 | Find the difference                                          |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                        |
 | Top100Liked     | Backtracking          |       22 | Generate parentheses                                         |
 | Top100Liked     | Backtracking          |       39 | Combination sum                                              |
