@@ -93,6 +93,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Binary Tree           |      144 | Binary tree preorder traversal                               |
 | Random          | Binary Tree           |      145 | Binary tree postorder traversal                              |
 | Random          | Binary Tree           |      257 | Binary tree paths                                            |
+| Random          | Binary Tree           |      404 | Sum of left leaves                                           |
 | Random          | Binary Tree           |     1302 | Deepest leaves sum                                           |
 | Random          | Binary Tree           |     1315 | Sum of nodes with even-valued grandparent                    |
 | Random          | Binary Tree           |     2265 | Count nodes equal to average of subtree                      |
@@ -123,6 +124,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Math                  |      258 | Add digits                                                   |
 | Random          | Math                  |      263 | Ugly number                                                  |
 | Random          | Math                  |      326 | Power of three                                               |
+| Random          | Math                  |     2177 | Find three consecutive integers that sum to a given number   |
+| Random          | Matrix                |      498 | Diagonal traverse                                            |
 | Random          | Matrix                |      807 | Max increase to keep city skyline                            |
 | Random          | Matrix                |     2125 | Number of laser beams in a bank                              |
 | Random          | Sorting               |     1561 | Maximum number of coins you can get                          |
@@ -133,9 +136,11 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Sorting               |     2418 | Sort the people                                              |
 | Random          | Sorting               |     2824 | Count pairs whose sum is less than target                    |
 | Random          | Sorting               |     2974 | Minimum number game                                          |
+| Random          | Stack                 |      232 | Implement queue using stacks                                 |
 | Random          | String                |      344 | Reverse string                                               |
 | Random          | String                |      387 | First unique character in a string                           |
 | Random          | String                |      389 | Find the difference                                          |
+| Random          | String                |      409 | Longest palindrome                                           |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                        |
 | Top100Liked     | Backtracking          |       22 | Generate parentheses                                         |
 | Top100Liked     | Backtracking          |       39 | Combination sum                                              |

@@ -12,7 +12,7 @@ public:
             auto direction = ast > 0 ? Direction::Right : Direction::Left;
             auto mass = std::abs(ast);
             if(st.empty() || direction == Direction::Right)
-                // if the direction is right or the stack is empty we push the asteroid
+                // if the direction is right or the Stack is empty we push the asteroid
                 st.push(ast);
             else {
                 // if direction is to the left, there could be collision
