@@ -139,6 +139,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Linked List           |     1290 | Convert binary number in a linked list to integer                  |
 | Random          | Linked List           |     2181 | Merge nodes in between zeroes                                      |
 | Random          | Linked List           |     2807 | Insert greatest common divisor in linked list                      |
+| Random          | Linked List           |     3217 | Delete nodes from linked list present in array                     |
 | Random          | Math                  |      171 | Excel sheet column number                                          |
 | Random          | Math                  |      231 | Power of two                                                       |
 | Random          | Math                  |      258 | Add digits                                                         |
@@ -174,6 +175,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | String                |      409 | Longest palindrome                                                 |
 | Random          | String                |      434 | Number of segments in a string                                     |
 | Random          | String                |     3210 | Find the encrypted string                                          |
+| Random          | String                |     3216 | Lexicographically smallest string after a swap                     |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                              |
 | Top100Liked     | Backtracking          |       22 | Generate parentheses                                               |
 | Top100Liked     | Backtracking          |       39 | Combination sum                                                    |
