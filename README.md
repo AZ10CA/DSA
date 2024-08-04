@@ -102,6 +102,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Array                 |     3184 | Count pairs that form a complete day i                             |
 | Random          | Array                 |     3194 | Minimum average of smallest and largest elements                   |
 | Random          | Array                 |     3206 | Alternating groups i                                               |
+| Random          | Backtracking          |       37 | Sudoku solver                                                      |
 | Random          | Backtracking          |     3211 | Generate binary strings without adjacent zeros                     |
 | Random          | Binary Tree           |      111 | Minimum depth of binary tree                                       |
 | Random          | Binary Tree           |      144 | Binary tree preorder traversal                                     |
@@ -113,16 +114,26 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Binary Tree           |     1315 | Sum of nodes with even-valued grandparent                          |
 | Random          | Binary Tree           |     1379 | Find a corresponding node of a binary tree in a clone of that tree |
 | Random          | Binary Tree           |     2265 | Count nodes equal to average of subtree                            |
+| Random          | Bit Manipulation      |      338 | Counting bits                                                      |
 | Random          | Bit Manipulation      |      461 | Hamming distance                                                   |
 | Random          | Bit Manipulation      |      476 | Number complement                                                  |
 | Random          | Bit Manipulation      |      861 | Score after flipping matrix                                        |
+| Random          | Dynamic Programming   |      123 | Best time to buy and sell stock iii                                |
+| Random          | Dynamic Programming   |      213 | House robber ii                                                    |
+| Random          | Dynamic Programming   |      518 | Coin change ii                                                     |
+| Random          | Dynamic Programming   |      583 | Delete operation for two strings                                   |
+| Random          | Dynamic Programming   |     1402 | Reducing dishes                                                    |
+| Random          | Dynamic Programming   |     2400 | Number of ways to reach position after exactly k steps             |
 | Random          | Hash Table            |      217 | Contains duplicate                                                 |
 | Random          | Hash Table            |      349 | Intersection of two arrays                                         |
+| Random          | Hash Table            |      350 | Intersection of two arrays ii                                      |
 | Random          | Hash Table            |      535 | Encode and decode tinyurl                                          |
 | Random          | Hash Table            |      771 | Jewels and stones                                                  |
 | Random          | Hash Table            |      804 | Unique morse code words                                            |
 | Random          | Hash Table            |     1282 | Group the people given the group size they belong to               |
+| Random          | Hash Table            |     1347 | Minimum number of steps to make two strings anagram                |
 | Random          | Hash Table            |     1365 | How many numbers are smaller than the current number               |
+| Random          | Hash Table            |     1435 | Destination city                                                   |
 | Random          | Hash Table            |     1512 | Number of good pairs                                               |
 | Random          | Hash Table            |     1636 | Sort array by increasing frequency                                 |
 | Random          | Hash Table            |     1684 | Count the number of consistent strings                             |
@@ -132,6 +143,8 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Hash Table            |     2367 | Number of arithmetic triplets                                      |
 | Random          | Hash Table            |     2441 | Largest positive integer that exists with its negative             |
 | Random          | Hash Table            |     2744 | Find minimum number of string pairs                                |
+| Random          | Hash Table            |     2956 | Find common elements between two arrays                            |
+| Random          | Hash Table            |     3158 | Find xor of numbers which appear twice                             |
 | Random          | Heap                  |      973 | K closest points to origin                                         |
 | Random          | Linked List           |      203 | Remove linked list elements                                        |
 | Random          | Linked List           |      237 | Delete node in linked list                                         |
@@ -151,10 +164,13 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Math                  |      509 | Fibonacci number                                                   |
 | Random          | Math                  |     1281 | Subtract the product and sum of digits of an integer               |
 | Random          | Math                  |     2177 | Find three consecutive integers that sum to a given number         |
+| Random          | Matrix                |       59 | Spiral matrix ii                                                   |
 | Random          | Matrix                |      498 | Diagonal traverse                                                  |
+| Random          | Matrix                |      566 | Reshape the matrix                                                 |
 | Random          | Matrix                |      733 | Flood fill                                                         |
 | Random          | Matrix                |      807 | Max increase to keep city skyline                                  |
 | Random          | Matrix                |     2125 | Number of laser beams in a bank                                    |
+| Random          | Matrix                |     2319 | Check if matrix is x-matrix                                        |
 | Random          | Matrix                |     3195 | Find the minimum area to cover all ones i                          |
 | Random          | Set                   |      414 | Third maximum number                                               |
 | Random          | Sorting               |      455 | Assign cookies                                                     |

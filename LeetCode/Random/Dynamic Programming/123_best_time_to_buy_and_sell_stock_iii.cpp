@@ -6,9 +6,9 @@ public:
     }
 
 /* 
-states:
+states: (3D)
 number of transactions done [0,2]
-engangement status [0,1]
+engagement status [0,1]
 idx of the item
 */
     int traverse(int idx, bool is_engaged, int tr_count, vector<vector<vector<int>>>& dp, const vector<int>& prices){
