@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
+        // Time: O(nk), Space: O(nk)
         vector<vector<vector<int>>> table(prices.size(), vector<vector<int>>(k + 1, vector<int>(2, -1)));
         return dp(0, k, true, table, prices);
     }
