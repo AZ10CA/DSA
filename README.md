@@ -90,15 +90,20 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Array                 |      448 | Find all numbers disappeared in an array                           |
 | Random          | Array                 |      485 | Max consecutive ones                                               |
 | Random          | Array                 |     1389 | Create target array in the given order                             |
+| Random          | Array                 |     1470 | Shuffle the array                                                  |
+| Random          | Array                 |     1491 | Average salary excluding the minimum and maximum salary            |
 | Random          | Array                 |     1528 | Shuffle string                                                     |
 | Random          | Array                 |     1630 | Arithmetic subarrays                                               |
+| Random          | Array                 |     1672 | Richest customer wealth                                            |
 | Random          | Array                 |     1769 | Minimum number of operations to move all balls to each box         |
 | Random          | Array                 |     1920 | Build array from permutation                                       |
 | Random          | Array                 |     2149 | Rearrange array elements by sign                                   |
 | Random          | Array                 |     2391 | Minimum amount of time to collect garbage                          |
 | Random          | Array                 |     2535 | Difference between element sum and digit sum of an array           |
 | Random          | Array                 |     2545 | Sort the students by their kth score                               |
+| Random          | Array                 |     2574 | Left and right sum difference                                      |
 | Random          | Array                 |     3151 | Special array i                                                    |
+| Random          | Array                 |     3162 | Find the number of good pairs i                                    |
 | Random          | Array                 |     3184 | Count pairs that form a complete day i                             |
 | Random          | Array                 |     3194 | Minimum average of smallest and largest elements                   |
 | Random          | Array                 |     3206 | Alternating groups i                                               |
@@ -118,15 +123,26 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Bit Manipulation      |      461 | Hamming distance                                                   |
 | Random          | Bit Manipulation      |      476 | Number complement                                                  |
 | Random          | Bit Manipulation      |      861 | Score after flipping matrix                                        |
+| Random          | Dynamic Programming   |       63 | Unique paths ii                                                    |
 | Random          | Dynamic Programming   |      123 | Best time to buy and sell stock iii                                |
+| Random          | Dynamic Programming   |      188 | Best time to buy and sell stock iv                                 |
 | Random          | Dynamic Programming   |      213 | House robber ii                                                    |
+| Random          | Dynamic Programming   |      403 | Frog jump                                                          |
 | Random          | Dynamic Programming   |      518 | Coin change ii                                                     |
 | Random          | Dynamic Programming   |      583 | Delete operation for two strings                                   |
+| Random          | Dynamic Programming   |      983 | Minimum cost for tickets                                           |
+| Random          | Dynamic Programming   |     1306 | Jump game iii                                                      |
+| Random          | Dynamic Programming   |     1340 | Jump game v                                                        |
+| Random          | Dynamic Programming   |     1387 | Sort inegers by the power                                          |
 | Random          | Dynamic Programming   |     1402 | Reducing dishes                                                    |
+| Random          | Dynamic Programming   |     1463 | Cherry pickup ii                                                   |
+| Random          | Dynamic Programming   |     1749 | Maximum absolute sum of any subarray                               |
+| Random          | Dynamic Programming   |     2305 | Fair distribution of cookies                                       |
 | Random          | Dynamic Programming   |     2400 | Number of ways to reach position after exactly k steps             |
 | Random          | Hash Table            |      217 | Contains duplicate                                                 |
 | Random          | Hash Table            |      349 | Intersection of two arrays                                         |
 | Random          | Hash Table            |      350 | Intersection of two arrays ii                                      |
+| Random          | Hash Table            |      500 | Keyboard row                                                       |
 | Random          | Hash Table            |      535 | Encode and decode tinyurl                                          |
 | Random          | Hash Table            |      771 | Jewels and stones                                                  |
 | Random          | Hash Table            |      804 | Unique morse code words                                            |
@@ -139,6 +155,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Hash Table            |     1684 | Count the number of consistent strings                             |
 | Random          | Hash Table            |     1832 | Check if the sentence is panagram                                  |
 | Random          | Hash Table            |     2006 | Count number of pairs with absolute difference k                   |
+| Random          | Hash Table            |     2043 | Kth distinct string in an array                                    |
 | Random          | Hash Table            |     2325 | Decode the message                                                 |
 | Random          | Hash Table            |     2367 | Number of arithmetic triplets                                      |
 | Random          | Hash Table            |     2441 | Largest positive integer that exists with its negative             |
@@ -169,6 +186,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Matrix                |      566 | Reshape the matrix                                                 |
 | Random          | Matrix                |      733 | Flood fill                                                         |
 | Random          | Matrix                |      807 | Max increase to keep city skyline                                  |
+| Random          | Matrix                |     1572 | Matrix diagonal sum                                                |
 | Random          | Matrix                |     2125 | Number of laser beams in a bank                                    |
 | Random          | Matrix                |     2319 | Check if matrix is x-matrix                                        |
 | Random          | Matrix                |     3195 | Find the minimum area to cover all ones i                          |
@@ -190,6 +208,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | String                |      389 | Find the difference                                                |
 | Random          | String                |      409 | Longest palindrome                                                 |
 | Random          | String                |      434 | Number of segments in a string                                     |
+| Random          | String                |     1935 | Max number of words you can type                                   |
 | Random          | String                |     3210 | Find the encrypted string                                          |
 | Random          | String                |     3216 | Lexicographically smallest string after a swap                     |
 | Top100Liked     | Backtracking          |       17 | Letter combinations of a phone number                              |
