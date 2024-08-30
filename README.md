@@ -130,6 +130,7 @@ While this is a personal project to track my own learning and progress, I'm open
 | Random          | Dynamic Programming   |      403 | Frog jump                                                          |
 | Random          | Dynamic Programming   |      518 | Coin change ii                                                     |
 | Random          | Dynamic Programming   |      583 | Delete operation for two strings                                   |
+| Random          | Dynamic Programming   |      688 | Knight probability in chessboard                                   |
 | Random          | Dynamic Programming   |      983 | Minimum cost for tickets                                           |
 | Random          | Dynamic Programming   |     1306 | Jump game iii                                                      |
 | Random          | Dynamic Programming   |     1340 | Jump game v                                                        |
