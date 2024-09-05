@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        // Time: O(n), Space: O(n)
         vector<vector<int>> result;
         int idx = 0;
 
