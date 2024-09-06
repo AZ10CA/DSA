@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        // Time: O(n), Space: O(n)
+        // Time: O(n^2), Space: O(n^2)
         vector<vector<int>> result;
         std::sort(nums.begin(), nums.end());
 
