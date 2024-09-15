@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> findMinHeightTrees(int n, vector<vector<int>>& edges) {
+        // Time: O(n), Space: O(n)
         if(n < 2)
             return {0};
 
