@@ -16,7 +16,6 @@ public:
     }
 
     string bucket_sort(const string& str){
-        // Time: O(n), Space: O(n)
         array<int, 26> ft{0};
         for(auto letter: str)
             ft[letter - 'a']++;
