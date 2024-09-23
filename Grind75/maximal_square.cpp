@@ -20,10 +20,6 @@ public:
         if(i >= rows || j >= cols || i < 0 || j < 0 )
             return 0;
 
-        if(i == rows - 1 || j == cols - 1)
-            return table[i][j] = matrix[i][j] - '0';
-
-
         auto& memo = table[i][j];
         if(memo != -1)
             return memo;
