@@ -26,7 +26,7 @@ public:
         // reverse the right half
         right_head = reverse(right_head);
 
-        // select elements from both lists alternatively
+        // select elements from both lists alternately
         bool take_first = true;
         ListNode* dummy = new ListNode();
         auto result = dummy;
