@@ -3,6 +3,35 @@ class Solution {
     unordered_map<int, vector<pair<int, int>>> graph;
 
 public:
+    /**
+    int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
+        // Time: O(ke), Space: O(n)
+        // Bellman-Ford Algorithm
+
+        vector<int> dist(n, INT_MAX); // represents the distance from "src" to other nodes
+        dist[src] = 0;
+
+
+        // relax the nodes k + 1 times
+        for(int i = 0; i < k + 1; i++){
+            vector<int> temp = dist;
+
+            for(auto& edge: flights){
+                int from = edge[0], to = edge[1], cost = edge[2];
+                // "src" cannot reach from
+                if(dist[from] == INT_MAX)
+                    continue;
+                temp[to] = std::min(dist[from] + cost, temp[to]);
+            }
+
+            dist = temp;
+        }
+
+
+        return dist[dst] == INT_MAX ? -1 : dist[dst];
+    }
+    */
+
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
         // Time: O(ek), Space: O(nk), where e: number of edges
         this->table = vector<vector<int>>(n, vector<int>(k + 1, -1));
