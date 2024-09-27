@@ -18,16 +18,16 @@ public:
 
         if(k == 0)
             return head;
-        // separate the last k elments from the other elements
+        // separate the last k elements from the other elements
         auto pointers = find_kth(head, k);
         ListNode *left_head = head, *left_tail = pointers[0],
                 *right_head = pointers[1], *right_tail = pointers[2];
 
-        // disconnect the two lists and connect the right list to the left
+        // disconnect the two lists and connect the right list to the left one
         left_tail->next = nullptr;
         right_tail->next = left_head;
 
-        // the new head will be the right_head pointer
+        // the new head will be the head of the right list
         return right_head;
     }
 
