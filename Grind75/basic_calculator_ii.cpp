@@ -3,9 +3,9 @@ public:
     int calculate(string s) {
         // Time: O(n), Space: O(n)
         char last_sign = '+';
-        long long current_number = 0;
+        int current_number = 0;
 
-        stack<long long> operands;
+        stack<int> operands;
         s.push_back('+');
 
         for(int i = 0; i < s.size(); i++){
@@ -14,7 +14,7 @@ public:
 
             auto current_char = s[i];
             if(isdigit(current_char))
-                current_number = current_number * 10 + current_char - '0';
+                current_number = current_number * 10 + (current_char - '0');
             else {
                 if(last_sign == '+' || last_sign == '-')
                     operands.push((last_sign == '-' ? -1 : 1) * current_number);
@@ -30,7 +30,7 @@ public:
             }
         }
 
-        long long result = 0;
+        int result = 0;
         while(!operands.empty()){
             result += operands.top();
             operands.pop();
