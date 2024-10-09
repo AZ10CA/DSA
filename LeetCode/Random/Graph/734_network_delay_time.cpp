@@ -7,7 +7,7 @@ public:
     }
 
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        // Time: O(ve), Spacce: O(v)
+        // Time: O(ve), Space: O(v)
         vector<int> dist(n, INT_MAX); // represents the distance from "src" to other nodes
         dist[k - 1] = 0;
 
