@@ -25,11 +25,9 @@ public:
             if(nums[l_idx] < nums[r_idx]){
                 l_idx++;
                 operations++;
-                continue;
             } else {
                 r_idx--;
                 operations++;
-                continue;
             }
         }
 
