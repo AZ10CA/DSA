@@ -44,6 +44,11 @@ class Solution {
     };
 
 public:
+    Solution(){
+        std::ios::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+    }
     string numberToWords(int num) {
         // Time: O(n), Space: O(n)
         string num_str = to_string(num);
@@ -58,7 +63,6 @@ public:
         for(auto partition: partitions){
             auto first_half = read(partition);
             result += first_half;
-            cout << result << endl;
             if(first_half.empty()){
                 unit_idx--;
                 continue;
