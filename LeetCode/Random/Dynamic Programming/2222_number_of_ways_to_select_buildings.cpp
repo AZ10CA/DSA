@@ -2,7 +2,8 @@ class Solution {
     vector<vector<vector<long long>>> table;
 public:
     long long numberOfWays(string s) {
-        // idx, last, size
+        // Time: O(n), Space: O(n)
+        // States: idx, last, size
         table = vector<vector<vector<long long>>>(s.size(), vector<vector<long long>>(2, vector<long long>(3, -1)));
         return dp(0, '1', 0, s) + dp(0, '0', 0, s);
     }
