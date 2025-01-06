@@ -13,7 +13,8 @@ public:
 
     int evaluate(int& from, const string& str){
         // Time: O(n), Space: O(n)
-        // starts evaluating startin from "from" idx and then returns the position of the character after the closing parenthesis
+        // starts evaluating starting from the "from" idx and then updates it to point to the character after the closing parenthesis
+        // returns the result of the calculation
         int sum = 0;
         char oper = '+';
         int iterator = from + 1;
