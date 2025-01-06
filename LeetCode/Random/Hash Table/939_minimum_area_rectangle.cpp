@@ -6,7 +6,9 @@ public:
         std::cin.tie(nullptr);
         std::cout.tie(nullptr);
     }
+
     int minAreaRect(vector<vector<int>>& pts) {
+        // Time: O(n^2), Space: O(n)
         int min_area = INT_MAX;
         unordered_set<int> points_set;
 
